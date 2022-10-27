@@ -582,6 +582,7 @@ main {
                     background: linear-gradient(180deg, rgba(105, 79, 192, 0.03) 0%, rgba(172, 153, 233, 0.59) 100%);
                     border-radius: 25px;
                     text-transform: capitalize;
+                    cursor: pointer;
                 }
             }
         }
@@ -651,6 +652,7 @@ footer {
             li {
                 font-family: $--font-2;
                 font-size: 1.5rem;
+                cursor: pointer;
             }
         }
     }

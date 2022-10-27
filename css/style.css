@@ -490,6 +490,7 @@ main .register > div .register_right button {
   background: linear-gradient(180deg, rgba(105, 79, 192, 0.03) 0%, rgba(172, 153, 233, 0.59) 100%);
   border-radius: 25px;
   text-transform: capitalize;
+  cursor: pointer;
 }
 main .register > p {
   display: flex;
@@ -549,4 +550,5 @@ footer .footer_right ul {
 footer .footer_right ul li {
   font-family: "Poppins", sans-serif;
   font-size: 1.5rem;
+  cursor: pointer;
 }/*# sourceMappingURL=style.css.map */
